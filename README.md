@@ -1,4 +1,7 @@
 # lb4-getting-start
 
-[Getting Started](https://medium.com/@krishsoftware1991/lets-start-with-loopback-4-b225848bca31)
-[![LoopBack](<https://github.com/strongloop/loopback-next/raw/master/docs/site/imgs/branding/Powered-by-LoopBack-Badge-(blue)-@2x.png>)](http://loopback.io/)
+[Add Model](https://medium.com/@krishsoftware1991/create-your-first-model-in-loopback4-4a93f59ef315?postPublishedType=initial)
+
+The model has been added
+new file: src/models/index.ts
+new file: src/models/todo.model.ts

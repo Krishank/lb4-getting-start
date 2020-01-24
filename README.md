@@ -1,7 +1,9 @@
 # lb4-getting-start
 
-[Add Model](https://medium.com/@krishsoftware1991/create-your-first-model-in-loopback4-4a93f59ef315?postPublishedType=initial)
+[Add Datasource](https://medium.com/@krishsoftware1991/datasource-in-loopback4-72518639c832)
 
-The model has been added
-new file: src/models/index.ts
-new file: src/models/todo.model.ts
+Files added
+data/db.json (Manually)
+src/datasources/db.datasource.config.json
+src/datasources/db.datasource.ts
+src/datasources/index.ts
